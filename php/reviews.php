@@ -33,7 +33,7 @@ include 'template.php';
     </section>
 </main>
 
-<?= template_footer() ?>
+<?= template_footer("Reviews") ?>
 
 </body>
 </html>

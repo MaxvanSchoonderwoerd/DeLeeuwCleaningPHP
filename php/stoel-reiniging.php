@@ -43,7 +43,7 @@ include 'template.php';
     </section>
 </main>
 
-<?= template_footer() ?>
+<?= template_footer("Stoel Reiniging") ?>
 
 </body>
 </html>

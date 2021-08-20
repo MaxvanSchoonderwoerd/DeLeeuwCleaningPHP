@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5f0a7f-7cf1-4cbb-9179-1962ab152560" name="Default Changelist" comment="" />
+    <list default="true" id="4a5f0a7f-7cf1-4cbb-9179-1962ab152560" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/bank-reiniging.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/bank-reiniging.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/matras-reiniging.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/matras-reiniging.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/over-ons.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/over-ons.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/reviews.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/reviews.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/stoel-reiniging.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/stoel-reiniging.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/stoom-reiniging.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/stoom-reiniging.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/tapijt-reiniging.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/tapijt-reiniging.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/template.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,19 +26,30 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1wDLMHQwroKz0pklYYzTgyXYV2Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,6 +62,7 @@
       <workItem from="1627988164705" duration="2366000" />
       <workItem from="1628069940019" duration="706000" />
       <workItem from="1628447021045" duration="5467000" />
+      <workItem from="1629457618723" duration="1443000" />
     </task>
     <servers />
   </component>
@@ -46,6 +70,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="562" y="344" key="Github.ShareDialog" timestamp="1629457654232">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="562" y="344" key="Github.ShareDialog/0.23.1440.834@0.23.1440.834" timestamp="1629457654232" />
+    <state x="460" y="152" key="Github.UntrackedFilesDialog" timestamp="1629457660863">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="460" y="152" key="Github.UntrackedFilesDialog/0.23.1440.834@0.23.1440.834" timestamp="1629457660863" />
     <state x="543" y="370" key="NewPhpFileDialog" timestamp="1627988386450">
       <screen x="0" y="23" width="1440" height="834" />
     </state>

@@ -17,7 +17,7 @@ include 'template.php';
 </head>
 <body>
 
-<?= template_header("contact")?>
+<?= template_header("Contact")?>
 
 <main>
 <!--    contact card-->
@@ -35,7 +35,7 @@ include 'template.php';
 
 </main>
 
-<?= template_footer() ?>
+<?= template_footer("Contact") ?>
 
 </body>
 </html>

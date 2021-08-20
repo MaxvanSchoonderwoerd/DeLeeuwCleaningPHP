@@ -1,5 +1,5 @@
 <?php
-include 'template.php';
+include 'php/template.php';
 
 ?>
 
@@ -62,7 +62,7 @@ include 'template.php';
                     <li class="checkList"> <i class="fas fa-check "></i> Verwijderd bacterien</li>
                     <li class="checkList"> <i class="fas fa-check "></i> Verwijderd huisstofmijt</li>
                 </ul>
-                <a href="../php/bank-reiniging.php"><h3 class="readMore">Lees meer</h3></a>
+                <a href="php/bank-reiniging.php"><h3 class="readMore">Lees meer</h3></a>
             </div>
 
 
@@ -74,7 +74,7 @@ include 'template.php';
                     <li class="checkList"> <i class="fas fa-check "></i> Verwijderd bacterien</li>
                     <li class="checkList"> <i class="fas fa-check "></i> Verwijderd huisstofmijt</li>
                 </ul>
-                <a href="../php/matras-reiniging.php"><h3 class="readMore">Lees meer</h3></a>
+                <a href="php/matras-reiniging.php"><h3 class="readMore">Lees meer</h3></a>
             </div>
 
 
@@ -86,7 +86,7 @@ include 'template.php';
                     <li class="checkList"> <i class="fas fa-check "></i> Verwijderd bacterien</li>
                     <li class="checkList"> <i class="fas fa-check "></i> Verwijderd huisstofmijt</li>
                 </ul>
-                <a href="../php/stoel-reiniging.php"><h3 class="readMore">Lees meer</h3></a>
+                <a href="php/stoel-reiniging.php"><h3 class="readMore">Lees meer</h3></a>
             </div>
 
             <div class="card pseudo-hover">
@@ -97,7 +97,7 @@ include 'template.php';
                     <li class="checkList"> <i class="fas fa-check "></i> Verwijderd bacterien</li>
                     <li class="checkList"> <i class="fas fa-check "></i> Verwijderd huisstofmijt</li>
                 </ul>
-                <a href="../php/tapijt-reiniging.php"><h3 class="readMore">Lees meer</h3></a>
+                <a href="php/tapijt-reiniging.php"><h3 class="readMore">Lees meer</h3></a>
             </div>
 
 
@@ -109,7 +109,7 @@ include 'template.php';
                     <li class="checkList"> <i class="fas fa-check "></i> Verwijderd bacterien</li>
                     <li class="checkList"> <i class="fas fa-check "></i> Verwijderd huisstofmijt</li>
                 </ul>
-                <a href="../php/stoom-reiniging.php"><h3 class="readMore">Lees meer</h3><a>
+                <a href="php/stoom-reiniging.php"><h3 class="readMore">Lees meer</h3><a>
             </div>
         </div>
     </section>
@@ -134,7 +134,7 @@ include 'template.php';
     </section>
 </main>
 
-<?= template_footer() ?>
+<?= template_footer("Home") ?>
 
 </body>
 </html>
