@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5f0a7f-7cf1-4cbb-9179-1962ab152560" name="Default Changelist" comment="">
+    <list default="true" id="4a5f0a7f-7cf1-4cbb-9179-1962ab152560" name="Default Changelist" comment="testing github pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/php/bank-reiniging.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/bank-reiniging.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/php/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/php/matras-reiniging.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/matras-reiniging.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/php/over-ons.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/over-ons.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/php/reviews.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/reviews.php" afterDir="false" />
@@ -62,12 +64,35 @@
       <workItem from="1627988164705" duration="2366000" />
       <workItem from="1628069940019" duration="706000" />
       <workItem from="1628447021045" duration="5467000" />
-      <workItem from="1629457618723" duration="1443000" />
+      <workItem from="1629457618723" duration="3520000" />
+      <workItem from="1629796662075" duration="6070000" />
+      <workItem from="1629990445389" duration="19876000" />
+      <workItem from="1631087917632" duration="2066000" />
     </task>
+    <task id="LOCAL-00001" summary="Moved index.php">
+      <created>1629459383080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629459383086</updated>
+    </task>
+    <task id="LOCAL-00002" summary="testing github pages">
+      <created>1629459678450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629459678450</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Moved index.php" />
+    <MESSAGE value="testing github pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing github pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="562" y="344" key="Github.ShareDialog" timestamp="1629457654232">
@@ -82,9 +107,21 @@
       <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="543" y="370" key="NewPhpFileDialog/0.23.1440.834@0.23.1440.834" timestamp="1627988386450" />
-    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup" timestamp="1627989922821">
+    <state x="454" y="149" key="RollbackChangesDialog" timestamp="1629801079111">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup/0.23.1440.834@0.23.1440.834" timestamp="1627989922821" />
+    <state x="454" y="149" key="RollbackChangesDialog/0.23.1440.834@0.23.1440.834" timestamp="1629801079111" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1629459690652">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.834@0.23.1440.834" timestamp="1629459690652" />
+    <state x="427" y="166" width="586" height="548" key="find.popup" timestamp="1631088526527">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="427" y="166" width="586" height="548" key="find.popup/0.23.1440.834@0.23.1440.834" timestamp="1631088526527" />
+    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup" timestamp="1630660424981">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup/0.23.1440.834@0.23.1440.834" timestamp="1630660424981" />
   </component>
 </project>

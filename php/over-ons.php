@@ -3,14 +3,11 @@ include 'template.php';
 
 ?>
 
-<!doctype html>
-<html lang="en">
-
-<?= template_head()?>
+<?= template_head("Over Ons") ?>
 
 <body>
 
-<?= template_header("Over Ons")?>
+<?= template_header("Over Ons") ?>
 
 <main>
     <!--    About us-->

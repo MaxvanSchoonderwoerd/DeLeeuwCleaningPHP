@@ -3,14 +3,11 @@ include 'template.php';
 
 ?>
 
-<!doctype html>
-<html lang="en">
-
-<?= template_head()?>
+<?= template_head("Reviews") ?>
 
 <body>
 
-<?= template_header("Reviews")?>
+<?= template_header("Reviews") ?>
 
 <main>
     <!--    About us-->

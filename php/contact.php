@@ -3,21 +3,12 @@ include 'template.php';
 
 ?>
 
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>De Leeuw Cleaning Service - Contact</title>
-    <link rel="stylesheet" href="../css/style.css">
-    <script src="https://kit.fontawesome.com/5b818eb41b.js" crossorigin="anonymous"></script>
-    <script src="../js/menu.js"></script>
-</head>
+
+<?= template_head("Contact") ?>
+
 <body>
 
-<?= template_header("Contact")?>
+<?= template_header("Contact") ?>
 
 <main>
 <!--    contact card-->

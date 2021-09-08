@@ -3,14 +3,11 @@ include 'template.php';
 
 ?>
 
-<!doctype html>
-<html lang="en">
-
-<?= template_head()?>
+<?= template_head("Stoom Reiniging") ?>
 
 <body>
 
-<?= template_header("Stoom Reiniging")?>
+<?= template_header("Stoom Reiniging") ?>
 
 <main>
     <section class="section_intro steamPage">
@@ -19,8 +16,6 @@ include 'template.php';
             <h3>
                 dae soluta temporibus. Deserunt dolorum eaque eos in, odio repudiandae ut.
             </h3>
-            <a href="https://api.whatsapp.com/send?phone=+31630825397" class="whatsAppBtn"> <i
-                    class="fab fa-whatsapp"></i> Whatsapp ons!</a>
         </div>
     </section>
     <!--    About us-->

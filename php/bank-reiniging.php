@@ -3,20 +3,8 @@ include 'template.php';
 
 ?>
 
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>De Leeuw Cleaning Service - Bank reiniging</title>
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../css/beforeAfter.css">
-    <script src="https://kit.fontawesome.com/5b818eb41b.js" crossorigin="anonymous"></script>
-    <script src="../js/menu.js"></script>
-    <script src="../js/beforeAfter.js"></script>
-</head>
+<?= template_head("Banken") ?>
+
 <body>
 
 <?= template_header("Banken") ?>
@@ -28,8 +16,6 @@ include 'template.php';
             <h3>
                 dae soluta temporibus. Deserunt dolorum eaque eos in, odio repudiandae ut.
             </h3>
-            <a href="https://api.whatsapp.com/send?phone=+31630825397" class="whatsAppBtn"> <i
-                        class="fab fa-whatsapp"></i> Whatsapp ons!</a>
         </div>
     </section>
     <!--    About us-->
@@ -64,6 +50,45 @@ include 'template.php';
             <img class='img foreground-img' src="../source/bgImg2.png">
             <input type="range" min="1" max="100" value="50" class="slider" name='slider' id="slider">
             <div class='slider-button'></div>
+        </div>
+    </section>
+
+    <section class="stepSection">
+        <div class="stepWrapper">
+            <div class="stepContainer">
+                <h1 class="stepNumber">1</h1>
+                <h2 class="stepTitle">Voorbehandeling</h2>
+                <img src="https://source.unsplash.com/random/1080x1920" alt="" class="img stepImage">
+                <p class="stepBody">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, illum iure molestias officia vero voluptates.</p>
+            </div>
+
+            <div class="stepContainer">
+                <h1 class="stepNumber">2</h1>
+                <h2 class="stepTitle">Hardnekkige vlekken</h2>
+                <img src="https://source.unsplash.com/random/1080x1920" alt="" class="img stepImage">
+                <p class="stepBody">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, illum iure molestias officia vero voluptates.</p>
+            </div>
+
+            <div class="stepContainer">
+                <h1 class="stepNumber">3</h1>
+                <h2 class="stepTitle">In laten trekken</h2>
+                <img src="https://source.unsplash.com/random/1080x1920" alt="" class="img stepImage">
+                <p class="stepBody">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, illum iure molestias officia vero voluptates.</p>
+            </div>
+
+            <div class="stepContainer">
+                <h1 class="stepNumber">4</h1>
+                <h2 class="stepTitle">Opzuigen</h2>
+                <img src="https://source.unsplash.com/random/1080x1920" alt="" class="img stepImage">
+                <p class="stepBody">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, illum iure molestias officia vero voluptates.</p>
+            </div>
+
+            <div class="stepContainer">
+                <h1 class="stepNumber">5</h1>
+                <h2 class="stepTitle">Nabehandeling</h2>
+                <img src="https://source.unsplash.com/random/1080x1920" alt="" class="img stepImage">
+                <p class="stepBody">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, illum iure molestias officia vero voluptates.</p>
+            </div>
         </div>
     </section>
 </main>
